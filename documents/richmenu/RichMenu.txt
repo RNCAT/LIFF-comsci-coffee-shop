@@ -1,0 +1,71 @@
+{
+  "size": {
+    "width": 2500,
+    "height": 1686
+  },
+  "selected": false,
+  "name": "CoffeeShop Customer RichMenu",
+  "chatBarText": "Shop Menu",
+  "areas": [
+    {
+      "bounds": {
+        "x": 769,
+        "y": 540,
+        "width": 995,
+        "height": 751
+      },
+      "action": {
+        "type": "message",
+        "text": "แสดงเมนูของร้าน"
+      }
+    },
+    {
+      "bounds": {
+        "x": 1783,
+        "y": 260,
+        "width": 717,
+        "height": 471
+      },
+      "action": {
+        "type": "uri",
+        "uri": "https://liff.line.me/<<shoppingcart>>"
+      }
+    },
+    {
+      "bounds": {
+        "x": 16,
+        "y": 312,
+        "width": 741,
+        "height": 441
+      },
+      "action": {
+        "type": "message",
+        "text": "ที่อยู่จัดส่งกาแฟ"
+      }
+    },
+    {
+      "bounds": {
+        "x": 1774,
+        "y": 1186,
+        "width": 722,
+        "height": 464
+      },
+      "action": {
+        "type": "uri",
+        "uri": "https://liff.line.me/<<order>>"
+      }
+    },
+    {
+      "bounds": {
+        "x": 32,
+        "y": 1297,
+        "width": 941,
+        "height": 349
+      },
+      "action": {
+        "type": "uri",
+        "uri": "https://liff.line.me/<<reward>>"
+      }
+    }
+  ]
+}
